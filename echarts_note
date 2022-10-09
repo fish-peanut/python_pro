@@ -1,0 +1,16 @@
+
+<!-- bootstrap 服务 -->
+<!-- bootstrap 提供的免费CDN服务，亲测非常稳定 -->
+<script src="//cdn.bootcss.com/echarts/4.5.0/echarts.common.js"></script>
+
+<!-- 七牛云存储服务 -->
+<!-- 国内速度稳定，开放性强 -->
+<script src="//cdn.staticfile.org/echarts/4.5.0/echarts.common.js"></script>
+
+<!-- jsdeliver 服务 -->
+<!-- 微软的CDN服务，虽然国内访问速度比不上国内CDN，但速度不至于太慢，有国际化需求的可以试试 -->
+<script src="//cdn.jsdelivr.net/npm/echarts@4.5.0/echarts.common.js"></script>
+
+<!-- cdnjs 服务 -->
+<!-- 一个非常全的CDN服务，存储了大多数主流的js、css、图片库 -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/echarts/4.5.0/echarts.common.js"></script>

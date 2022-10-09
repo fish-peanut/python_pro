@@ -1,0 +1,281 @@
+{
+  "Table": [
+    {
+      "rowcount": 31
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 1,
+      "storeName": "万达",
+      "addressDetail": "鳌江路8号福州金融街万达商业广场一层(1-70)、二层(2-1)",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 2,
+      "storeName": "福州万象",
+      "addressDetail": "工业路691号万象城购物中心一、二层",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 3,
+      "storeName": "福州金桔",
+      "addressDetail": "仓山区金桔四路永辉广场1楼",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 4,
+      "storeName": "福州道",
+      "addressDetail": "福州道916号",
+      "pro": "Wi-Fi,礼品卡,生日餐会",
+      "provinceName": "天津市",
+      "cityName": "天津市"
+    },
+    {
+      "rownum": 5,
+      "storeName": "福州",
+      "addressDetail": "福州路556号",
+      "pro": "Wi-Fi,点唱机,礼品卡,溯源",
+      "provinceName": "上海市",
+      "cityName": "上海市"
+    },
+    {
+      "rownum": 6,
+      "storeName": "福州路",
+      "addressDetail": "广汉福州路2段一号-1至1层",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "四川省",
+      "cityName": "德阳市"
+    },
+    {
+      "rownum": 7,
+      "storeName": "福州路",
+      "addressDetail": "福州路与人民路交叉口利客来平度购物中心一层东南把角的房产",
+      "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+      "provinceName": "山东省",
+      "cityName": "青岛市"
+    },
+    {
+      "rownum": 8,
+      "storeName": "福州茶亭0591-87111280",
+      "addressDetail": "台江区八一七中路264号",
+      "pro": "24小时,Wi-Fi,礼品卡",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 9,
+      "storeName": "福州南路",
+      "addressDetail": "扬州路北侧福州南路东侧宝龙城市广场一楼67750716",
+      "pro": "Wi-Fi,礼品卡,生日餐会",
+      "provinceName": "山东省",
+      "cityName": "青岛市"
+    },
+    {
+      "rownum": 10,
+      "storeName": "朴里一",
+      "addressDetail": "泉厦高速公路朴里服务区福州往厦门方向跨线大楼A区二层（0595-85019153）",
+      "pro": "Wi-Fi,点唱机,精选店,礼品卡",
+      "provinceName": "福建省",
+      "cityName": "泉州市"
+    }
+  ]
+}{
+  "Table": [
+    {
+      "rowcount": 31
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 11,
+      "storeName": "朴里二精选",
+      "addressDetail": "泉厦高速公路朴里服务区厦门往福州方向跨线大楼B区二层（0595-85026973）",
+      "pro": "Wi-Fi,点唱机,精选店",
+      "provinceName": "福建省",
+      "cityName": "泉州市"
+    },
+    {
+      "rownum": 12,
+      "storeName": "福州火车站精选",
+      "addressDetail": "福州火车站北广场第五候车室7号-9号检票口楼上",
+      "pro": "精选店",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 13,
+      "storeName": "火车南站出发层",
+      "addressDetail": "城门镇胪雷村福州南站候车层编号HC38",
+      "pro": "Wi-Fi,点唱机,精选店",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 14,
+      "storeName": "火车南站到达层",
+      "addressDetail": "仓山区城门镇胪雷村福州南站出站层CZ-29点位",
+      "pro": "Wi-Fi,点唱机,精选店",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 15,
+      "storeName": "福州南街",
+      "addressDetail": "八一七北路南街商业中心负二层086-087商铺",
+      "pro": "Wi-Fi,点唱机",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 16,
+      "storeName": "鳌峰",
+      "addressDetail": "鳌峰街道鳌峰路190号福州永辉商品交易中心整座建筑中1-2层部分",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 17,
+      "storeName": "福峰路",
+      "addressDetail": "铺晋安区新店镇福峰路68号福州奥林匹克花园二期A地块国际交流中心一层5-111号商",
+      "pro": "24小时,Wi-Fi,店内参观,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 18,
+      "storeName": "杨桥中路",
+      "addressDetail": "杨桥中路289号福州凤凰酒家杨桥中路一侧一层1号店面",
+      "pro": "24小时,Wi-Fi,点唱机,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 19,
+      "storeName": "SS临时-福州肯德基市场",
+      "addressDetail": "海峡会展中心6号展厅",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 20,
+      "storeName": "福州软件大道",
+      "addressDetail": "软件大道A区双创新城6#楼1层003室",
+      "pro": "Wi-Fi,店内参观,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    }
+  ]
+}{
+  "Table": [
+    {
+      "rowcount": 31
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 21,
+      "storeName": "福州软件大道",
+      "addressDetail": "软件大道A区双创新城6#楼1层003室",
+      "pro": "Wi-Fi,店内参观,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 22,
+      "storeName": "福州宜家",
+      "addressDetail": "晋安区福马路788号宜家家居商业广场L1层M108号",
+      "pro": "Wi-Fi,点唱机,店内参观,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 23,
+      "storeName": "福州宜家",
+      "addressDetail": "晋安区福马路788号宜家家居商业广场L1层M108号",
+      "pro": "Wi-Fi,点唱机,店内参观,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 24,
+      "storeName": "福州湖滨路",
+      "addressDetail": "湖滨路66号中福西湖花园1#楼B区1层B店面等部分店面",
+      "pro": "Wi-Fi,店内参观,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 25,
+      "storeName": "福州湖滨路",
+      "addressDetail": "湖滨路66号中福西湖花园1#楼B区1层B店面等部分店面",
+      "pro": "Wi-Fi,店内参观,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 26,
+      "storeName": "福州秀山路",
+      "addressDetail": "新店镇秀山路245号索高广场1楼1层6-7号商铺",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 27,
+      "storeName": "福州秀山路",
+      "addressDetail": "新店镇秀山路245号索高广场1楼1层6-7号商铺",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,生日餐会",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 28,
+      "storeName": "福州外语外贸",
+      "addressDetail": "长乐区首占村福州外语外贸学院北区食堂一层部分及新教学楼一层部分",
+      "pro": "Wi-Fi,点唱机,店内参观,手机点餐",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 29,
+      "storeName": "福州外语外贸",
+      "addressDetail": "长乐区首占村福州外语外贸学院北区食堂一层部分及新教学楼一层部分",
+      "pro": "Wi-Fi,点唱机,店内参观,手机点餐",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    },
+    {
+      "rownum": 30,
+      "storeName": "福州外语外贸外卖点",
+      "addressDetail": "首占村福州外语外贸学院北区食堂一层部分",
+      "pro": "Wi-Fi,生日餐会,手机点餐",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    }
+  ]
+}{
+  "Table": [
+    {
+      "rowcount": 31
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 31,
+      "storeName": "福州外语外贸外卖点",
+      "addressDetail": "首占村福州外语外贸学院北区食堂一层部分",
+      "pro": "Wi-Fi,生日餐会,手机点餐",
+      "provinceName": "福建省",
+      "cityName": "福州市"
+    }
+  ]
+}{"Table": [{"rowcount": 45}], "Table1": [{"rownum": 1, "storeName": "万达", "addressDetail": "鳌江路8号福州金融街万达商业广场一层(1-70)、二层(2-1)", "pro": "Wi-Fi,Wi-Fi,店内参观,店内参观,礼品卡", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 2, "storeName": "福州万象", "addressDetail": "台江区上海街道西环中路691号万象商业广场二层", "pro": "Wi-Fi,Wi-Fi,店内参观,店内参观,礼品卡", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 3, "storeName": "福州金桔", "addressDetail": "仓山区金桔四路永辉广场1楼", "pro": "Wi-Fi,Wi-Fi,店内参观,店内参观,礼品卡", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 4, "storeName": "福州道", "addressDetail": "福州道916号", "pro": "Wi-Fi,Wi-Fi,礼品卡", "provinceName": "天津市", "cityName": "天津市"}, {"rownum": 5, "storeName": "福州路", "addressDetail": "广汉福州路2段一号-1至1层", "pro": "Wi-Fi,Wi-Fi,店内参观,店内参观,礼品卡", "provinceName": "四川省", "cityName": "德阳市"}, {"rownum": 6, "storeName": "福州路", "addressDetail": "福州路与人民路交叉口利客来平度购物中心一层东南把角的房产", "pro": "Wi-Fi,Wi-Fi,店内参观,店内参观,礼品卡", "provinceName": "山东省", "cityName": "青岛市"}, {"rownum": 7, "storeName": "福州茶亭0591-87111280", "addressDetail": "台江区八一七中路264号", "pro": "24小时,24小时,Wi-Fi,Wi-Fi,礼品卡", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 8, "storeName": "福州南路", "addressDetail": "扬州路北侧福州南路东侧宝龙城市广场一楼67750716", "pro": "Wi-Fi,Wi-Fi,礼品卡", "provinceName": "山东省", "cityName": "青岛市"}, {"rownum": 9, "storeName": "朴里一", "addressDetail": "泉厦高速公路朴里服务区福州往厦门方向跨线大楼A区二层（0595-85019153）", "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,精选店,精选店,礼品卡", "provinceName": "福建省", "cityName": "泉州市"}, {"rownum": 10, "storeName": "朴里二精选", "addressDetail": "泉厦高速公路朴里服务区厦门往福州方向跨线大楼B区二层（0595-85026973）", "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,精选店,精选店", "provinceName": "福建省", "cityName": "泉州市"}]}{"Table": [{"rowcount": 45}], "Table1": [{"rownum": 11, "storeName": "福州火车站精选", "addressDetail": "福州火车站北广场第五候车室7号-9号检票口楼上", "pro": "精选店,精选店", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 12, "storeName": "火车南站出发层", "addressDetail": "城门镇胪雷村福州南站候车层编号HC38", "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,精选店,精选店", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 13, "storeName": "福州南街", "addressDetail": "八一七北路南街商业中心负二层086-087商铺", "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 14, "storeName": "鳌峰", "addressDetail": "鳌峰街道鳌峰路190号福州永辉商品交易中心整座建筑中1-2层部分", "pro": "24小时,24小时,Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 15, "storeName": "福峰路", "addressDetail": "铺晋安区新店镇福峰路68号福州奥林匹克花园二期A地块国际交流中心一层5-111号商", "pro": "Wi-Fi,Wi-Fi,店内参观,店内参观", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 16, "storeName": "杨桥中路", "addressDetail": "杨桥中路289号福州凤凰酒家杨桥中路一侧一层1号店面", "pro": "24小时,24小时,Wi-Fi,Wi-Fi,点唱机,点唱机", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 17, "storeName": "SS临时-福州肯德基市场", "addressDetail": "海峡会展中心6号展厅", "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 18, "storeName": "福州软件大道", "addressDetail": "软件大道A区双创新城6#楼1层003室", "pro": "Wi-Fi,Wi-Fi,店内参观,店内参观", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 19, "storeName": "福州软件大道", "addressDetail": "软件大道A区双创新城6#楼1层003室", "pro": "Wi-Fi,Wi-Fi,店内参观,店内参观", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 20, "storeName": "福州宜家", "addressDetail": "晋安区福马路788号宜家家居商业广场L1层M108号", "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观", "provinceName": "福建省", "cityName": "福州市"}]}{"Table": [{"rowcount": 45}], "Table1": [{"rownum": 21, "storeName": "福州宜家", "addressDetail": "晋安区福马路788号宜家家居商业广场L1层M108号", "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 22, "storeName": "福州湖滨路", "addressDetail": "湖滨路66号中福西湖花园1#楼B区1层B店面等部分店面", "pro": "Wi-Fi,Wi-Fi,店内参观,店内参观", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 23, "storeName": "福州湖滨路", "addressDetail": "湖滨路66号中福西湖花园1#楼B区1层B店面等部分店面", "pro": "Wi-Fi,Wi-Fi,店内参观,店内参观", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 24, "storeName": "福州秀山路", "addressDetail": "新店镇秀山路245号索高广场1楼1层6-7号商铺", "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 25, "storeName": "福州秀山路", "addressDetail": "新店镇秀山路245号索高广场1楼1层6-7号商铺", "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 26, "storeName": "福州外语外贸", "addressDetail": "首占村福州外语外贸学院新教学楼一层部分", "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观,手机点餐,手机点餐", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 27, "storeName": "福州外语外贸", "addressDetail": "首占村福州外语外贸学院新教学楼一层部分", "pro": "Wi-Fi,Wi-Fi,点唱机,点唱机,店内参观,店内参观,手机点餐,手机点餐", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 28, "storeName": "福州外语外贸外卖点", "addressDetail": "首占村福州外语外贸学院北区食堂一层部分", "pro": "Wi-Fi,Wi-Fi,手机点餐,手机点餐", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 29, "storeName": "福州外语外贸外卖点", "addressDetail": "首占村福州外语外贸学院北区食堂一层部分", "pro": "Wi-Fi,Wi-Fi,手机点餐,手机点餐", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 30, "storeName": "软件园F区K-coffee", "addressDetail": "软件大道89号福州软件园F区3号楼1层", "pro": "手机点餐,手机点餐", "provinceName": "福建省", "cityName": "福州市"}]}{"Table": [{"rowcount": 45}], "Table1": [{"rownum": 31, "storeName": "百胜餐饮(福州)有限公司东园东路K-coffee", "addressDetail": "新日财富广场裙楼113室一层部分", "pro": null, "provinceName": "福建省", "cityName": "莆田市"}, {"rownum": 32, "storeName": "百胜餐饮(福州)有限公司方圆荟", "addressDetail": "赤岸大道东侧、福宁大道北侧霞浦·方圆荟一层1021号及二层2016号商铺", "pro": null, "provinceName": "福建省", "cityName": "宁德市"}, {"rownum": 33, "storeName": "PY临时-福州肯德基市场", "addressDetail": "晋安区竹屿路6号东二环泰禾城市广场22号楼B1层第33号商铺一侧早餐车", "pro": null, "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 34, "storeName": "软件园F区K-coffee", "addressDetail": "软件大道89号福州软件园F区3号楼1层", "pro": "手机点餐,手机点餐", "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 35, "storeName": "百胜餐饮(福州)有限公司东园东路K-coffee", "addressDetail": "新日财富广场裙楼113室一层部分", "pro": null, "provinceName": "福建省", "cityName": "莆田市"}, {"rownum": 36, "storeName": "百胜餐饮(福州)有限公司方圆荟", "addressDetail": "赤岸大道东侧、福宁大道北侧霞浦·方圆荟一层1021号及二层2016号商铺", "pro": null, "provinceName": "福建省", "cityName": "宁德市"}, {"rownum": 37, "storeName": "TY临时-福州肯德基市场", "addressDetail": "东二环泰禾SOHO", "pro": null, "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 38, "storeName": "TY临时-福州肯德基市场", "addressDetail": "东二环泰禾SOHO", "pro": null, "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 39, "storeName": "PY临时-福州肯德基市场", "addressDetail": "晋安区竹屿路6号东二环泰禾城市广场22号楼B1层第33号商铺一侧早餐车", "pro": null, "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 40, "storeName": "百胜餐饮(福州)有限公司长乐十洋K-coffee", "addressDetail": "吴航街道十洋村郑和中路3号", "pro": "手机点餐,手机点餐", "provinceName": "福建省", "cityName": "福州市"}]}{"Table": [{"rowcount": 45}], "Table1": [{"rownum": 41, "storeName": "百胜餐饮(福州)有限公司建新路", "addressDetail": "建新南路151号16#楼118单元、119单元一层", "pro": null, "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 42, "storeName": "百胜餐饮(福州)有限公司建新路", "addressDetail": "建新南路151号16#楼118单元、119单元一层", "pro": null, "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 43, "storeName": "百胜餐饮(福州)有限公司金沙公园餐车", "addressDetail": "金沙公园入口", "pro": null, "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 44, "storeName": "百胜餐饮(福州)有限公司江阴", "addressDetail": "江阴镇外环路188-1号一层", "pro": null, "provinceName": "福建省", "cityName": "福州市"}, {"rownum": 45, "storeName": "百胜餐饮(福州)有限公司长乐十洋K-coffee", "addressDetail": "吴航街道十洋村郑和中路3号", "pro": "手机点餐,手机点餐", "provinceName": "福建省", "cityName": "福州市"}]}
